@@ -2,7 +2,7 @@
 
 <h2>Lollipop-Chainsaw Pink <h2>
 
-![alt text](https://raw.githubusercontent.com/DevilsDesigns/Xbox-One-Themes/main/Lollipop-Chainsaw/Demos/Screenshot%202021-05-20%20181913.png
+![alt text](https://raw.githubusercontent.com/DevilsDesigns/Xbox-One-Themes/main/Lollipop-Chainsaw/Demos/Screenshot-Pink.png
  "Pink")
 [Download Theme](https://github.com/DevilsDesigns/Xbox-One-Themes/blob/d7786053c14a688198987e940bc3111b8cd5880c/Lollipop-Chainsaw/Completed/Lollipop-Chainsaw-pink.png)
   
